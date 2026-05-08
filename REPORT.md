@@ -50,7 +50,7 @@ Note: If any of the filenames above are missing or misspelled, rename/copy them 
 ## 5) LangSmith / Prompt Hub links (from run)
 
 - LangSmith project (open in browser to verify traces): https://smith.langchain.com/
-- Prompt Hub V1: https://smith.langchain.com/prompts/day22-rag-prompt-v1/36945785?organizationId=6dbcc79f-7b48-435a-9c37-fa06251b1b82
+- Prompt Hub V1: (https://smith.langchain.com/hub/nguyenhoangviethung/day22-rag-prompt-v1?organizationId=9c3c26b3-393e-4af7-a04a-46844e7a3027)
 - Prompt Hub V2: https://smith.langchain.com/prompts/day22-rag-prompt-v2/3b75dd21?organizationId=6dbcc79f-7b48-435a-9c37-fa06251b1b82
 
 
