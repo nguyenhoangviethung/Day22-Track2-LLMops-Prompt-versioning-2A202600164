@@ -1,0 +1,200 @@
+
+Running 50 questions with prompt v1 ...
+  [01/50] What are the three main types of machine learning?
+  [02/50] What is overfitting in machine learning?
+  [03/50] Explain the bias-variance tradeoff.
+  [04/50] How does regularization prevent overfitting?
+  [05/50] What is cross-validation?
+  [06/50] What is backpropagation?
+  [07/50] What are Convolutional Neural Networks primarily used for?
+  [08/50] How do LSTM networks address the vanishing gradient problem?
+  [09/50] What activation functions are commonly used in neural networ
+  [10/50] What is the role of pooling layers in CNNs?
+  [11/50] What is the transformer architecture?
+  [12/50] What are word embeddings?
+  [13/50] What is transfer learning in NLP?
+  [14/50] How does BERT handle language understanding?
+  [15/50] What is self-attention in transformers?
+  [16/50] What is GPT and how is it trained?
+  [17/50] What is instruction tuning?
+  [18/50] What is RLHF?
+  [19/50] What is chain-of-thought prompting?
+  [20/50] What is the context length of GPT-4?
+  [21/50] What is Retrieval-Augmented Generation?
+  [22/50] What are the main components of a RAG pipeline?
+  [23/50] What is dense retrieval?
+  [24/50] Why is chunking strategy important in RAG?
+  [25/50] What advanced RAG techniques exist beyond basic retrieval?
+  [26/50] What are vector databases used for?
+  [27/50] What is FAISS?
+  [28/50] How do text embeddings capture semantic meaning?
+  [29/50] What is HNSW?
+  [30/50] What is hybrid search in vector databases?
+  [31/50] What is LangChain?
+  [32/50] What is LangChain Expression Language (LCEL)?
+  [33/50] What is LangGraph?
+  [34/50] What memory types does LangChain support?
+  [35/50] What are LangChain retrievers?
+  [36/50] What is LangSmith?
+  [37/50] What information do LangSmith traces capture?
+  [38/50] What is the LangSmith Prompt Hub?
+  [39/50] How does LangSmith help monitor production LLM applications?
+  [40/50] What are LangSmith datasets used for?
+  [41/50] What is RAGAS?
+  [42/50] How does RAGAS compute faithfulness?
+  [43/50] What is answer relevancy in RAGAS?
+  [44/50] What is context recall in RAGAS?
+  [45/50] What inputs does RAGAS evaluation require?
+  [46/50] What is Guardrails AI?
+  [47/50] What is PII and why is it important to detect in LLM respons
+  [48/50] What does structured output validation ensure?
+  [49/50] What is Constitutional AI?
+  [50/50] What are common AI safety concerns with LLMs?
+
+Running 50 questions with prompt v2 ...
+  [01/50] What are the three main types of machine learning?
+  [02/50] What is overfitting in machine learning?
+  [03/50] Explain the bias-variance tradeoff.
+  [04/50] How does regularization prevent overfitting?
+  [05/50] What is cross-validation?
+  [06/50] What is backpropagation?
+  [07/50] What are Convolutional Neural Networks primarily used for?
+  [08/50] How do LSTM networks address the vanishing gradient problem?
+  [09/50] What activation functions are commonly used in neural networ
+  [10/50] What is the role of pooling layers in CNNs?
+  [11/50] What is the transformer architecture?
+  [12/50] What are word embeddings?
+  [13/50] What is transfer learning in NLP?
+  [14/50] How does BERT handle language understanding?
+  [15/50] What is self-attention in transformers?
+  [16/50] What is GPT and how is it trained?
+  [17/50] What is instruction tuning?
+  [18/50] What is RLHF?
+  [19/50] What is chain-of-thought prompting?
+  [20/50] What is the context length of GPT-4?
+  [21/50] What is Retrieval-Augmented Generation?
+  [22/50] What are the main components of a RAG pipeline?
+  [23/50] What is dense retrieval?
+  [24/50] Why is chunking strategy important in RAG?
+  [25/50] What advanced RAG techniques exist beyond basic retrieval?
+  [26/50] What are vector databases used for?
+  [27/50] What is FAISS?
+  [28/50] How do text embeddings capture semantic meaning?
+  [29/50] What is HNSW?
+  [30/50] What is hybrid search in vector databases?
+  [31/50] What is LangChain?
+  [32/50] What is LangChain Expression Language (LCEL)?
+  [33/50] What is LangGraph?
+  [34/50] What memory types does LangChain support?
+  [35/50] What are LangChain retrievers?
+  [36/50] What is LangSmith?
+  [37/50] What information do LangSmith traces capture?
+  [38/50] What is the LangSmith Prompt Hub?
+  [39/50] How does LangSmith help monitor production LLM applications?
+  [40/50] What are LangSmith datasets used for?
+  [41/50] What is RAGAS?
+  [42/50] How does RAGAS compute faithfulness?
+  [43/50] What is answer relevancy in RAGAS?
+  [44/50] What is context recall in RAGAS?
+  [45/50] What inputs does RAGAS evaluation require?
+  [46/50] What is Guardrails AI?
+  [47/50] What is PII and why is it important to detect in LLM respons
+  [48/50] What does structured output validation ensure?
+  [49/50] What is Constitutional AI?
+  [50/50] What are common AI safety concerns with LLMs?
+
+📐 Running RAGAS evaluation for prompt v1 ...
+Evaluating:   0%|                                                                                                  | 0/200 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   1%|▉                                                                                         | 2/200 [00:16<29:23,  8.91s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   2%|█▎                                                                                        | 3/200 [00:44<56:44, 17.28s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   5%|████▍                                                                                    | 10/200 [00:50<11:55,  3.76s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  12%|███████████▏                                                                             | 25/200 [01:43<08:02,  2.76s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  13%|███████████▌                                                                             | 26/200 [01:58<14:27,  4.99s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  18%|███████████████▌                                                                         | 35/200 [02:22<08:21,  3.04s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  18%|████████████████                                                                         | 36/200 [02:40<14:24,  5.27s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  24%|████████████████████▉                                                                    | 47/200 [03:01<06:12,  2.44s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  24%|█████████████████████▎                                                                   | 48/200 [03:18<13:06,  5.18s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  26%|███████████████████████▏                                                                 | 52/200 [03:28<09:02,  3.66s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  28%|█████████████████████████▎                                                               | 57/200 [03:46<07:48,  3.28s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  32%|████████████████████████████                                                             | 63/200 [04:03<06:16,  2.75s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  34%|█████████████████████████████▊                                                           | 67/200 [04:18<07:03,  3.19s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  38%|██████████████████████████████████▎                                                      | 77/200 [04:48<05:36,  2.74s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  40%|███████████████████████████████████▌                                                     | 80/200 [05:02<07:25,  3.71s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  42%|████████████████████████████████████▉                                                    | 83/200 [05:07<05:31,  2.83s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  45%|████████████████████████████████████████                                                 | 90/200 [05:26<04:35,  2.50s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  46%|█████████████████████████████████████████▍                                               | 93/200 [05:31<03:56,  2.21s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  48%|██████████████████████████████████████████▋                                              | 96/200 [05:37<03:49,  2.21s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  51%|████████████████████████████████████████████▉                                           | 102/200 [05:57<04:28,  2.74s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  52%|██████████████████████████████████████████████▏                                         | 105/200 [05:59<03:13,  2.03s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  54%|███████████████████████████████████████████████▌                                        | 108/200 [06:09<04:02,  2.64s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  55%|███████████████████████████████████████████████▉                                        | 109/200 [06:15<05:03,  3.34s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  60%|█████████████████████████████████████████████████████▏                                  | 121/200 [06:54<05:08,  3.90s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  62%|██████████████████████████████████████████████████████                                  | 123/200 [07:06<06:06,  4.76s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  74%|█████████████████████████████████████████████████████████████████                       | 148/200 [08:23<02:25,  2.79s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  74%|█████████████████████████████████████████████████████████████████▌                      | 149/200 [08:41<04:35,  5.40s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  77%|███████████████████████████████████████████████████████████████████▊                    | 154/200 [08:49<02:30,  3.27s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  84%|█████████████████████████████████████████████████████████████████████████▍              | 167/200 [09:25<01:58,  3.59s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  93%|█████████████████████████████████████████████████████████████████████████████████▊      | 186/200 [10:00<00:25,  1.81s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  94%|██████████████████████████████████████████████████████████████████████████████████▎     | 187/200 [10:03<00:25,  1.93s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|████████████████████████████████████████████████████████████████████████████████████████| 200/200 [10:32<00:00,  3.16s/it]
+  faithfulness                  : 0.8403 ⭐
+  answer_relevancy              : 0.8866
+  context_recall                : 0.7500
+  context_precision             : 0.9433
+
+📐 Running RAGAS evaluation for prompt v2 ...
+Evaluating:   0%|                                                                                                  | 0/200 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   0%|▍                                                                                         | 1/200 [00:03<13:02,  3.93s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   4%|███▏                                                                                      | 7/200 [00:21<07:48,  2.43s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:   4%|████                                                                                      | 9/200 [00:29<09:37,  3.02s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  10%|████████▉                                                                                | 20/200 [00:55<06:06,  2.04s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  12%|███████████▏                                                                             | 25/200 [01:07<06:04,  2.08s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  14%|████████████                                                                             | 27/200 [01:10<05:32,  1.92s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  14%|████████████▍                                                                            | 28/200 [01:21<09:14,  3.23s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  18%|████████████████▍                                                                        | 37/200 [01:30<04:34,  1.68s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  20%|█████████████████▎                                                                       | 39/200 [01:39<07:03,  2.63s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  21%|██████████████████▋                                                                      | 42/200 [01:49<08:19,  3.16s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  24%|█████████████████████▊                                                                   | 49/200 [02:01<04:43,  1.87s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  30%|██████████████████████████▎                                                              | 59/200 [02:26<04:32,  1.93s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  32%|████████████████████████████▉                                                            | 65/200 [02:47<06:11,  2.75s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  37%|████████████████████████████████▉                                                        | 74/200 [03:08<05:17,  2.52s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  38%|█████████████████████████████████▊                                                       | 76/200 [03:18<06:40,  3.23s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  40%|███████████████████████████████████▏                                                     | 79/200 [03:27<06:10,  3.06s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  44%|███████████████████████████████████████▏                                                 | 88/200 [03:36<03:28,  1.86s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  47%|█████████████████████████████████████████▊                                               | 94/200 [03:46<03:08,  1.78s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  51%|████████████████████████████████████████████▉                                           | 102/200 [04:17<04:47,  2.93s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  55%|███████████████████████████████████████████████▉                                        | 109/200 [04:27<02:44,  1.81s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  58%|███████████████████████████████████████████████████▍                                    | 117/200 [04:43<02:33,  1.85s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  59%|███████████████████████████████████████████████████▉                                    | 118/200 [04:54<04:30,  3.30s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  63%|███████████████████████████████████████████████████████▍                                | 126/200 [05:12<03:06,  2.53s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  64%|████████████████████████████████████████████████████████▎                               | 128/200 [05:22<04:00,  3.34s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  70%|█████████████████████████████████████████████████████████████▌                          | 140/200 [05:44<01:54,  1.90s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  70%|██████████████████████████████████████████████████████████████                          | 141/200 [05:53<03:15,  3.31s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  75%|██████████████████████████████████████████████████████████████████                      | 150/200 [06:09<01:44,  2.09s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  76%|██████████████████████████████████████████████████████████████████▉                     | 152/200 [06:14<01:40,  2.09s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  76%|███████████████████████████████████████████████████████████████████▎                    | 153/200 [06:18<01:54,  2.44s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  80%|█████████████████████████████████████████████████████████████████████▉                  | 159/200 [06:39<01:58,  2.90s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  84%|█████████████████████████████████████████████████████████████████████████▍              | 167/200 [06:52<01:17,  2.34s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating:  96%|████████████████████████████████████████████████████████████████████████████████████    | 191/200 [07:50<00:20,  2.25s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|████████████████████████████████████████████████████████████████████████████████████████| 200/200 [08:05<00:00,  2.43s/it]
+  faithfulness                  : 0.6243
+  answer_relevancy              : 0.5977
+  context_recall                : 0.7900
+  context_precision             : 0.9533
+
+Comparison table:
+  faithfulness                  : V1=0.8403  V2=0.6243  ← V1
+  answer_relevancy              : V1=0.8866  V2=0.5977  ← V1
+  context_recall                : V1=0.7500  V2=0.7900  ← V2
+  context_precision             : V1=0.9433  V2=0.9533  ← V2
+✅ Target met: faithfulness = 0.8403
+
+✅ Saved report to /home/bear/Documents/Workspace/VIN/track2/Day22-Track2-LLMops-Prompt-versioning-2A202600164/data/ragas_report.json
